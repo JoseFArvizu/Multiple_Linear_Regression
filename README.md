@@ -14,7 +14,7 @@ This repository contains a simple demonstration of **Multiple Linear Regression*
 - Handle categorical variables using encoding techniques.
 - Split data into training and testing sets.
 - Fit and evaluate the regression model.
-- Perform backward elimination (in Python) to optimize the model.
+- Perform backward elimination (in R) to optimize the model.
 
 ## 🧪 Technologies Used
 
@@ -48,11 +48,3 @@ The model successfully predicts company profits based on input features, and opt
 | Marketing Spend| Marketing budget               |
 | State          | Location of the startup         |
 | Profit         | Target variable (dependent)     |
-
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
-
-Feel free to fork or star the repository if you find it useful! 🚀
